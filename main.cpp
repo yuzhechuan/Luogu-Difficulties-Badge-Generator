@@ -24,6 +24,10 @@ bool isNum(std::string s)
 
 void printColor(const std::string &s, const std::string &color, std::string &rgb)
 {
+	if (color == "Red:")
+		rgb = "e74c3c";
+	if (color == "Orange:")
+		rgb = "e67e22";
 	if (color == "Yellow:")
 		rgb = "f1c40f";
 	if (color == "Green:")
