@@ -31,7 +31,6 @@ P6666
 
 如果本地输出的结果很杂乱无章，建议使用文件输入输出，或使用知名国际在线 IDE 运行：ideone.com
 
-## 作者的 badges
-![result](https://s1.ax1x.com/2018/08/28/PONJUA.png)
-
 当然，您也可以修改代码，自定义输出样式。
+
+> 本转换器适合于kkksc03版本的luogu博客
